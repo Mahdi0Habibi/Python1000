@@ -1,0 +1,7 @@
+a = int(input("Please Enter The First Number: "))
+b = int(input("Please Enter The Scecond Number: "))
+print(f"Sum is {a+b}")
+print(f"Multiply is {a*b}")
+print(f"Division is {a/b}")
+print(f"Subtract is {a-b}")
+print(f"LeftOver is {a%b}")
